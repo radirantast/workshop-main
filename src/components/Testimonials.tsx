@@ -1,5 +1,5 @@
 import { Card, CardContent } from "./ui/card";
-import { Avatar, AvatarImage, AvatarFallback } from "./ui/avatar";
+import { Avatar, AvatarFallback } from "./ui/avatar";
 import { Star } from "lucide-react";
 
 export function Testimonials() {
